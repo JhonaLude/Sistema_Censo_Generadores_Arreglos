@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "marca": "GeoTech",
+        "modelo": "KJHY78",
+        "costo": 250.0,
+        "consumoPorHora": 5.25,
+        "generacion": 2500.0,
+        "uso": "Residencial"
+    }
+]
